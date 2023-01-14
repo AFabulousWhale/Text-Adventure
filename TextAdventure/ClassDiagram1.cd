@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TextAdventure.Battle_System" Collapsed="true">
+    <Position X="5.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAQAAAgAAAAAACAAAAACAAAAIEAgAAACBQABAAAEAA=</HashCode>
+      <FileName>Battle System.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TextAdventure.Character_Dialoge" Collapsed="true">
+    <Position X="7.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Character Dialoge.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TextAdventure.Intro" Collapsed="true">
+    <Position X="4.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAACAAAAACAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Intro.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TextAdventure.Inventory_system">
+    <Position X="9.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QQABAAQAABAAgAIAIAgAgCAgAAAAAAAAACQCBAAAABA=</HashCode>
+      <FileName>Inventory system.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TextAdventure.ItemValues" Collapsed="true">
+    <Position X="16.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAQEAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>ItemValues.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TextAdventure.LoadArea">
+    <Position X="14.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LoadArea.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TextAdventure.Menu">
+    <Position X="9.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAAAAAACAAAAAAgAAAIAAAAABAAAA=</HashCode>
+      <FileName>Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TextAdventure.Music_SFX" Collapsed="true">
+    <Position X="16.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAAEAQAAAAAAAAAAABACAAABFAAAA=</HashCode>
+      <FileName>Music-SFX.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TextAdventure.Program" Collapsed="true">
+    <Position X="13.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAIACAAAAAQAABgAAAAAAAEAAAAACAgABQQBAAAAAE=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TextAdventure.SaveVariables" Collapsed="true">
+    <Position X="13.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAEEAAAAAlAIgAABEAAmBAAAAAAQEAQAABIAYSEQA=</HashCode>
+      <FileName>SaveVariables.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TextAdventure.Shop">
+    <Position X="11" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QUQBAAAAAAAQEAIAAAABADAAIAAAAQAAAAQCBAQgAAA=</HashCode>
+      <FileName>Shop.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TextAdventure.ShopPrices" Collapsed="true">
+    <Position X="14.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACACAAAgAAAQAAAAAAAAAAAAgAAAAABA=</HashCode>
+      <FileName>ShopPrices.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TextAdventure.Title_Screen">
+    <Position X="7.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAEAAAAAAAAAAgAAAAAAAQAAAABABAAAE=</HashCode>
+      <FileName>Title Screen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TextAdventure.World1">
+    <Position X="3.25" Y="5.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="TextAdventure.World1.Forward">
+        <TypeIdentifier>
+          <NewMemberFileName>World1.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="TextAdventure.World1.Left">
+        <TypeIdentifier>
+          <NewMemberFileName>World1.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="TextAdventure.World1.Right">
+        <TypeIdentifier>
+          <NewMemberFileName>World1.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAACAAAAAAAAAACAAAABAAAAAA=</HashCode>
+      <FileName>World1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
