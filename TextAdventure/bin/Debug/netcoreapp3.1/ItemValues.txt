@@ -1,0 +1,31 @@
+Skull Splitter:30:Looks kind of heavy, but it feels like it can do a lot of damage to those who deserve it!:weapon
+Celestial Axe:27:An axe, hmmm, looks like it can hurt enemies regardless if they're made of wood!:weapon
+Mace of the Wolf:25:Mace of the wolf! Must be important, and can sure do a lot of damage!:weapon
+Scythe of Doubt:20:You doubt using this scythe, however it appears it holds great power!:weapon
+Spear of Respiration:17:Even though this spear looks heavy, it seems to be giving you more power to breathe! Impressive!:weapon
+Sword of the River:16:Wow! a sword!! It may belong to the river but it seems pretty powerful!:weapon
+Staff of Melancholy:15:This staff makes you feel kind of sad but it's worth it for power it brings!:weapon
+Bow of Dusk:10:Wow! A bow! You can shoot your enemies from afar!!:weapon
+Hammer of Swiftness:6:This hammer looks kinda of old and worn down, however it still looks like it can do a decent amount of damage:weapon
+Crown of Arcane Power:10:This crown hold immense power, and also a lot of protection!:armour
+Bracelet of Heaven:9:It may only look like a braclet, but it makes you feel like you're walking on clouds!:armour
+The Dead Dragon's Shield:8:Huh, it appears this shield is stolen, at least the dragon is dead though, haha!:armour
+Dress of Hellfire:5:A dress, weirdly, even though it's made of fire, it doesn't burn when wearing it!:armour
+Unravel Ice Ring:6:Ice ring huh, surprisingly the ring doesn't make ice, but it just creates a cold feeling on your finger:armour
+Chestplate of Distress:7:Wearing this chestplate causes your enemies to feel distressed, perfect for battle!:armour
+Leggings of Woe:4:Legging, the perfect armour peice, doesn't protect much, but protects the most important parts of your body!:armour
+Gloves of Peace:3:These gloves were made to cause peace, however all they've caused is destruction. Damn you sentient gloves!:armour
+Pegasus Gingerbread:75:The fresh smell of gingerbread reminds you of your childhood and brings you joy!:food
+Unicorn Jelly:70:Jelly made from pure unicorn blood! yummy!:food
+Dragon Surprise:67:dragon surprise:food
+Dragon Fudge:66:Made from.... you don't wanna know actually.:food
+Moon Rabbit Pavlova:60:Who knew rabbits lived on the moon! And they can cook too! wow!!:food
+Cooked Golden Hare:57:Golden hares are pretty rare animals! you should feel lucky eating this:food
+Necromancers' Brew:50:Freshly made brew from the "local" necromancer!:food
+Griffin Cone:40:Squeezed freshly from a Griffin.:food
+Manticore Toffee:30:Harvested from the Manticore.:food
+Night Wasabi Cake:20:Made with fresh honey and love, a favourite among bears.:food
+Barbecued River Rat:15:Smells like Jerry.:food
+Horn of Doom:40:a:item
+Thunder Gauntlet:35:a:item
+Fate's Lamp:20:a:item

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kOR5lacIKwlVWDo5eqL2owy/zh6aKrG+f5FFAE2i1ChAZmn7DCo3Rqi0w34tekGKp+PVceppZJnFDNn3Vq+oGw==",
+  "dgSpecHash": "eaDH0GOLjL1CXJUOIS1aTzDMc8d7WPRbrW0KvxtR5jTthUvn0P9Fp212Af3kuWkmxBbHYcVrUOISdPK3G1JqBw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mary\\source\\repos\\TextAdventure\\TextAdventure\\TextAdventure.csproj",
+  "projectFilePath": "G:\\Uni work\\TextAdventure\\TextAdventure\\TextAdventure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mary\\.nuget\\packages\\figgle\\0.4.0\\figgle.0.4.0.nupkg.sha512",
     "C:\\Users\\Mary\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",

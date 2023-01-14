@@ -30,3 +30,35 @@ C:\Users\Mary\source\repos\TextAdventure\TextAdventure\bin\Debug\netcoreapp3.1\N
 C:\Users\Mary\source\repos\TextAdventure\TextAdventure\bin\Debug\netcoreapp3.1\NAudio.Wasapi.dll
 C:\Users\Mary\source\repos\TextAdventure\TextAdventure\bin\Debug\netcoreapp3.1\NAudio.WinForms.dll
 C:\Users\Mary\source\repos\TextAdventure\TextAdventure\bin\Debug\netcoreapp3.1\NAudio.WinMM.dll
+G:\Uni work\TextAdventure\TextAdventure\bin\Debug\netcoreapp3.1\TextAdventure.exe
+G:\Uni work\TextAdventure\TextAdventure\bin\Debug\netcoreapp3.1\TextAdventure.deps.json
+G:\Uni work\TextAdventure\TextAdventure\bin\Debug\netcoreapp3.1\TextAdventure.runtimeconfig.json
+G:\Uni work\TextAdventure\TextAdventure\bin\Debug\netcoreapp3.1\TextAdventure.runtimeconfig.dev.json
+G:\Uni work\TextAdventure\TextAdventure\bin\Debug\netcoreapp3.1\TextAdventure.dll
+G:\Uni work\TextAdventure\TextAdventure\bin\Debug\netcoreapp3.1\TextAdventure.pdb
+G:\Uni work\TextAdventure\TextAdventure\bin\Debug\netcoreapp3.1\Figgle.dll
+G:\Uni work\TextAdventure\TextAdventure\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+G:\Uni work\TextAdventure\TextAdventure\bin\Debug\netcoreapp3.1\NAudio.dll
+G:\Uni work\TextAdventure\TextAdventure\bin\Debug\netcoreapp3.1\NAudio.Asio.dll
+G:\Uni work\TextAdventure\TextAdventure\bin\Debug\netcoreapp3.1\NAudio.Core.dll
+G:\Uni work\TextAdventure\TextAdventure\bin\Debug\netcoreapp3.1\NAudio.Midi.dll
+G:\Uni work\TextAdventure\TextAdventure\bin\Debug\netcoreapp3.1\NAudio.Wasapi.dll
+G:\Uni work\TextAdventure\TextAdventure\bin\Debug\netcoreapp3.1\NAudio.WinForms.dll
+G:\Uni work\TextAdventure\TextAdventure\bin\Debug\netcoreapp3.1\NAudio.WinMM.dll
+G:\Uni work\TextAdventure\TextAdventure\bin\Debug\netcoreapp3.1\Pastel.dll
+G:\Uni work\TextAdventure\TextAdventure\bin\Debug\netcoreapp3.1\SoundPlayerControl.dll
+G:\Uni work\TextAdventure\TextAdventure\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+G:\Uni work\TextAdventure\TextAdventure\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+G:\Uni work\TextAdventure\TextAdventure\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\Uni work\TextAdventure\TextAdventure\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\Uni work\TextAdventure\TextAdventure\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\Uni work\TextAdventure\TextAdventure\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+G:\Uni work\TextAdventure\TextAdventure\obj\Debug\netcoreapp3.1\TextAdventure.csproj.AssemblyReference.cache
+G:\Uni work\TextAdventure\TextAdventure\obj\Debug\netcoreapp3.1\TextAdventure.GeneratedMSBuildEditorConfig.editorconfig
+G:\Uni work\TextAdventure\TextAdventure\obj\Debug\netcoreapp3.1\TextAdventure.AssemblyInfoInputs.cache
+G:\Uni work\TextAdventure\TextAdventure\obj\Debug\netcoreapp3.1\TextAdventure.AssemblyInfo.cs
+G:\Uni work\TextAdventure\TextAdventure\obj\Debug\netcoreapp3.1\TextAdventure.csproj.CoreCompileInputs.cache
+G:\Uni work\TextAdventure\TextAdventure\obj\Debug\netcoreapp3.1\TextAdventure.csproj.CopyComplete
+G:\Uni work\TextAdventure\TextAdventure\obj\Debug\netcoreapp3.1\TextAdventure.dll
+G:\Uni work\TextAdventure\TextAdventure\obj\Debug\netcoreapp3.1\TextAdventure.pdb
+G:\Uni work\TextAdventure\TextAdventure\obj\Debug\netcoreapp3.1\TextAdventure.genruntimeconfig.cache

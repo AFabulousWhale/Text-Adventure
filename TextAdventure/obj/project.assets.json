@@ -5109,11 +5109,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mary\\source\\repos\\TextAdventure\\TextAdventure\\TextAdventure.csproj",
+      "projectUniqueName": "G:\\Uni work\\TextAdventure\\TextAdventure\\TextAdventure.csproj",
       "projectName": "TextAdventure",
-      "projectPath": "C:\\Users\\Mary\\source\\repos\\TextAdventure\\TextAdventure\\TextAdventure.csproj",
+      "projectPath": "G:\\Uni work\\TextAdventure\\TextAdventure\\TextAdventure.csproj",
       "packagesPath": "C:\\Users\\Mary\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mary\\source\\repos\\TextAdventure\\TextAdventure\\obj\\",
+      "outputPath": "G:\\Uni work\\TextAdventure\\TextAdventure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mary\\AppData\\Roaming\\NuGet\\NuGet.Config",
